@@ -1,4 +1,4 @@
 # gerenciador-de-series
-Sistema simples de gerenciamento de series feito utilizando Laravel.
+Sistema simples de gerenciamento de series feito com Laravel.
 
 Esse projeto foi desenvolvido no curso da Alura de formação PHP.
